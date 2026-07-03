@@ -1,12 +1,6 @@
 streamlit
 pandas
-re
-json
-tkinter
-io
-pathlib
+numpy
 openpyxl
 plotly
 rapidfuzz
-traceback
-numpy
