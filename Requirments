@@ -1,0 +1,12 @@
+streamlit
+pandas
+re
+json
+tkinter
+io
+pathlib
+openpyxl
+plotly
+rapidfuzz
+traceback
+numpy
